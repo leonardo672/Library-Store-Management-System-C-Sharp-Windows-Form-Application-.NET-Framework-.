@@ -1,1 +1,1 @@
-# Library-Store-Management-System-Windows-Form-Application-.NET-Framework-
+# Library Store Management System (С# Windows Form Application .NET Framework)
