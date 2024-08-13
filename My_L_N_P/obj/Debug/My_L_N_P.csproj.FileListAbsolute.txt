@@ -1,0 +1,50 @@
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\bin\Debug\My_L_N_P.exe.config
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\bin\Debug\My_L_N_P.exe
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\bin\Debug\My_L_N_P.pdb
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CustomerButton3.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.MainForm.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.Properties.Resources.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.csproj.GenerateResource.cache
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.csproj.CoreCompileInputs.cache
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.exe
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.pdb
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CusBut.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.csproj.AssemblyReference.cache
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.LoginForm.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.UserForm.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.UserModuleForm.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CustomerForm.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CustomerModuleForm.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CategoryForm.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CategoryModuleFormcs.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.ProductForm.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.ProductModuleForm.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.OrderForm.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.OrderModuleForm.resources
+D:\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.WelcomeForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\bin\Debug\My_L_N_P.exe.config
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\bin\Debug\My_L_N_P.exe
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\bin\Debug\My_L_N_P.pdb
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CategoryForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CategoryModuleFormcs.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CusBut.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CustomerButton3.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CustomerForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.CustomerModuleForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.MainForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.LoginForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.OrderForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.OrderModuleForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.ProductForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.ProductModuleForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.Properties.Resources.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.UserForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.UserModuleForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.WelcomeForm.resources
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.csproj.GenerateResource.cache
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.csproj.CoreCompileInputs.cache
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.exe
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.pdb
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\bin\Debug\dblibrary.mdf
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\bin\Debug\dblibrary_log.ldf
+D:\New folder\C#\M_L_P_N\My_L_N_P\My_L_N_P\obj\Debug\My_L_N_P.csproj.AssemblyReference.cache
